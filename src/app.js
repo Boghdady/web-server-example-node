@@ -99,6 +99,6 @@ app.get('*', (req, res) => {
 
 // start the server
 app.listen(port, () => {
-    console.log('Server is up in port 3000')
+    console.log('Server is up in port server port or 3000')
 })
 
